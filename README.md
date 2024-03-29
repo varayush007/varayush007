@@ -1,7 +1,9 @@
 <h1 align="center">
  Hi there!👋
 </h1>
-<img  height="270" src="https://giphy.com/embed/08k4Wi6sjKrURt0Gvw/video" width="480"/>
+<div align="center">
+  <img height="150" src="https://giphy.com/clips/anidom-fox-foxtv-family-guy-08k4Wi6sjKrURt0Gvw"  />
+</div>
 
 
  🏠 Deep Leanring and NLP Enthusiast from Jaipur,India.
