@@ -1,7 +1,7 @@
 <h1 align="center">
  Hi there!👋
 </h1>
-
+![](name-of-giphy.gif](https://media1.tenor.com/m/NguN9YGX1rsAAAAC/the-simpsons-homer.gif)
 
  🏠 Deep Leanring and NLP Enthusiast from Jaipur,India.
 
@@ -34,7 +34,7 @@
   <img width="12" />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="40"/>
   <img width="12" />    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" height="40"/>
   <img width="12" />    
   <img src ="https://github.com/varayush007/varayush007/assets/108609442/1b470567-4683-43a9-a534-5b1f49523774" width = "50" height = "50"/ >
   <img width="12" />
