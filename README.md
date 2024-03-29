@@ -2,7 +2,7 @@
  Hi there!👋
 </h1>
 <p align="center">
-  <img src="https://giphy.com/gifs/the-simpsons-scared-homer-simpson-jUwpNzg9IcyrK" alt="animated" />
+  <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="360" src="https://giphy.com/embed/O4B7pH57BbdVZVcNgS/video" width="480"></iframe></div>
 </p>
 
  🏠 Deep Leanring and NLP Enthusiast from Jaipur,India.
