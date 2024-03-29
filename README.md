@@ -42,8 +42,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"  height = "40" / >       
-  <img src ="https://github.com/varayush007/varayush007/assets/108609442/c811f094-19c2-49af-98f8-dfb0bed7bb86" / >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"  height = "40" / >  
+  <img width="12" />
+  <img src ="https://github.com/varayush007/varayush007/assets/108609442/c811f094-19c2-49af-98f8-dfb0bed7bb86" height = "40"/ >
+  <img width="12" />
 
 </div>
 
