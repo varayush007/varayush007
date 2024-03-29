@@ -1,7 +1,9 @@
 <h1 align="center">
  Hi there!👋
 </h1>
-![](name-of-giphy.gif](https://media1.tenor.com/m/NguN9YGX1rsAAAAC/the-simpsons-homer.gif)
+<p align="center">
+  <img src="https://giphy.com/gifs/the-simpsons-scared-homer-simpson-jUwpNzg9IcyrK" alt="animated" />
+</p>
 
  🏠 Deep Leanring and NLP Enthusiast from Jaipur,India.
 
