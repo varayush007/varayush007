@@ -36,7 +36,7 @@
   <img width="12" />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40"/>
   <img width="12" />    
-  <img src ="https://github.com/varayush007/varayush007/assets/108609442/ccdcffd7-29c0-47a9-b96b-a884e09e4230" width = "50" height = "50"/ >
+  <img src ="https://github.com/varayush007/varayush007/assets/108609442/1b470567-4683-43a9-a534-5b1f49523774" width = "50" height = "50"/ >
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  height="40"/>
   <img width="12" />
