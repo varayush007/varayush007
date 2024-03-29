@@ -23,7 +23,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="![image](https://github.com/varayush007/varayush007/assets/108609442/59fb8cdc-5852-43db-a872-97c92b7740cc)" height="40"/>   
+ ![image](https://github.com/varayush007/varayush007/assets/108609442/59fb8cdc-5852-43db-a872-97c92b7740cc)"   
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"/>   
   <img width="12" />
