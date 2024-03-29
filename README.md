@@ -1,9 +1,8 @@
 <h1 align="center">
  Hi there!👋
 </h1>
-<p align="center">
-  <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="360" src="https://giphy.com/embed/O4B7pH57BbdVZVcNgS/video" width="480"></iframe></div>
-</p>
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="360" src="https://giphy.com/embed/O4B7pH57BbdVZVcNgS/video" width="480"></iframe></div>
+
 
  🏠 Deep Leanring and NLP Enthusiast from Jaipur,India.
 
