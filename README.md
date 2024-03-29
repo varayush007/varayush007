@@ -2,13 +2,28 @@
  Hi there!👋
 </h1>
 <div align="center">
-  <img height="150" src="https://giphy.com/clips/anidom-fox-foxtv-family-guy-08k4Wi6sjKrURt0Gvw"  />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzI1OTB4a2plZ3luMDdnemR5MXF6anl3YzU5Z2o1cjQ2ZXVyM3l1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufmrFR3PCFDwqyc/giphy.gif" />
 </div>
 
 
- 🏠 Deep Leanring and NLP Enthusiast from Jaipur,India.
+###
 
- 💢 I code watch and play Cricket.
+<div align="center">
+  <a href="https://www.linkedin.com/in/ayush-varshney-96292b200/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="varayush007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail logo"  />
+  </a>
+</div>
+
+###
+
+
+
+ 🏠 Deep Learning and NLP Enthusiast from Jaipur, India.
+
+ 💢 Code, Sleep, Watch Cricket, Repeat.
 
  🔭 I’m currently working on Langchain.
 
@@ -16,10 +31,6 @@
 
  👯 I’m looking to collaborate on any projects.
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-varshney-96292b200/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varayush007@gmail.com)
 
 
 
