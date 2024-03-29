@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" height="40" />
   <img width="12" />
-  ![image](https://github.com/varayush007/varayush007/assets/108609442/addca273-8ede-459f-8e3a-405b7c1efdf5)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"  height = "40" / >       
 </div>
 
 
