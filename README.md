@@ -2,7 +2,7 @@
  Hi there!👋
 </h1>
 <div align="center">
-  <img height="150" src=" https://media2.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=6c09b952kraxkuzpole1rtwu2fhro5tfg203lvy70pk0lcez&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBxajhpanJnMzB3azVybjVpeDF3azZscGV0dndyM3hwc2gwczkwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKUg57VRHurphCw/giphy.gif " />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhiMmN3bXJsYm9qcTcwMjc4NzNnMjU1OWkwZnRzb3lxbnY3ZnFmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VhQeeCofCd2Tb4gMS8/giphy.gif" />
 </div>
 
 
